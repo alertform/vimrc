@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/ziton/fileplace/GitHub/.vim'
+let g:netrw_dirhist_8='/home/ziton/fileplace/GitHub'
+let g:netrw_dirhist_7='/home/ziton/fileplace/GitHub/.vim'
+let g:netrw_dirhist_6='/home/ziton/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting'
+let g:netrw_dirhist_5='/boot/grub'
+let g:netrw_dirhist_4='/home/ziton/.config/ranger'
+let g:netrw_dirhist_3='/home/ziton/.devilspie/DesktopConsole.ds'
+let g:netrw_dirhist_2='/home/ziton/files/01.md'
+let g:netrw_dirhist_1='/home/ziton/.devilspie/DesktopConsole.ds'
